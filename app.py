@@ -73,7 +73,7 @@ def main():
                             data=open(file_name, 'rb').read(),
                             key='download_button',
                             file_name='Workout Plan',
-                            mime='text/plain'
+                            mime='text/txt'
                         )
                         os.remove(file_name)
                     except Exception as e:
