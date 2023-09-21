@@ -1,0 +1,183 @@
+{"M":{
+  "Beginner":{
+      "Shoulders":{
+          "Military Press": "10 x 3",
+          "Lateral Raises": "12 x 3",
+          "Horizontal Raises": "12 x 3",
+          "Backward Flies": "12 x 3"
+      },
+      "Chest":{
+          "Bench Press": "10 x 3",
+          "Chest Flies": "12 x 3",
+          "Dips": "10 x 3",
+          "Incline Bench Press": "10 x 3"
+      },
+      "Back":{
+          "Pull-Ups": "6~10 x 3",
+          "Vertical Pull-Downs": "10 x 3",
+          "Horizontal Rows": "12 x 3",
+          "Vertical Barbell Rows": "10 x 3"
+      },
+            "Legs":{
+                "Barbell Squats": "6~10 x 3",
+                "Deadlifts": "10 x 3",
+                "Leg Extensions": "12 x 3",
+                "Leg Curls": "12 x 3",
+                "Calves Raises": "15 x 3"
+            }
+        },
+        "Advanced":{
+            "Shoulders":{
+                "Military Press": "10 x 3",
+                "Lateral Raises": "12 x 3",
+                "Horizontal Raises": "12 x 3",
+                "Backward Flies": "12 x 3",
+                "Unilateral Lateral Raises": "10/arm * 3"
+            },
+            "Chest":{
+                "Bench Press": "10 x 3",
+                "Chest Flies": "12 x 3",
+                "Dips": "10 x 3",
+                "Incline Bench Press": "10 x 3",
+                "Pulley Press": "12 x 3"
+            },
+            "Back":{
+                "Pull-Ups": "6~10 x 3",
+                "Vertical Pull-Downs": "10 x 3",
+                "Horizontal Rows": "12 x 3",
+                "Vertical Barbell Rows": "10 x 3",
+                "Dumbell Rows": "10/arm x 3"
+            },
+            "Legs":{
+                "Barbell Squats": "6~10 x 3",
+                "Deadlifts": "10 x 3",
+                "Leg Extensions": "12 x 3",
+                "Leg Curls": "12 x 3",
+                "Goblin Squats": "12 x 3",
+                "Calves Raises": "15 x 3"
+            }
+        },
+        "Expert":{
+            "Shoulders":{
+                "Military Press": "10 x 4",
+                "Lateral Raises": "12 x 4",
+                "Horizontal Raises": "12 x 4",
+                "Backward Flies": "12 x 4",
+                "Unilateral Lateral Raises": "10/arm * 4"
+            },
+            "Chest":{
+                "Bench Press": "10 x 4",
+                "Chest Flies": "12 x 4",
+                "Dips": "10 x 4",
+                "Incline Bench Press": "10 x 4",
+                "Pulley Press": "12 x 4"
+            },
+            "Back":{
+                "Pull-Ups": "6~10 x 4",
+                "Vertical Pull-Downs": "10 x 4",
+                "Horizontal Rows": "12 x 4",
+                "Vertical Barbell Rows": "10 x 4",
+                "Dumbell Rows": "10/arm x 4"
+            },
+            "Legs":{
+                "Barbell Squats": "6~10 x 4",
+                "Deadlifts": "10 x 4",
+                "Leg Extensions": "12 x 4",
+                "Leg Curls": "12 x 4",
+                "Goblin Squats": "12 x 4",
+                "Calves Raises": "15 x 4"
+            }
+        }
+    },
+    "F":{
+        "Beginner":{
+            "Shoulders":{
+                "Military Press": "10 x 3",
+                "Lateral Raises": "12 x 3",
+                "Horizontal Raises": "12 x 3",
+                "Backward Flies": "12 x 3"
+            },
+            "Chest":{
+                "Bench Press": "10 x 3",
+                "Chest Flies": "12 x 3",
+                "Assisted Dips": "10 x 3",
+                "Incline Bench Press": "10 x 3"
+            },
+            "Back":{
+                "Assisted Pull-Ups": "10 x 3",
+                "Vertical Pull-Downs": "10 x 3",
+                "Horizontal Rows": "12 x 3",
+                "Vertical Barbell Rows": "10 x 3"
+            },
+            "Legs":{
+                "Barbell Squats": "6~10 x 3",
+                "Deadlifts": "10 x 3",
+                "Leg Extensions": "12 x 3",
+                "Leg Curls": "12 x 3",
+                "Calves Raises": "15 x 3"
+            }
+        },
+        "Advanced":{
+            "Shoulders":{
+                "Military Press": "10 x 3",
+                "Lateral Raises": "12 x 3",
+                "Horizontal Raises": "12 x 3",
+                "Backward Flies": "12 x 3",
+                "Unilateral Lateral Raises": "10/arm * 3"
+            },
+            "Chest":{
+                "Bench Press": "10 x 3",
+                "Chest Flies": "12 x 3",
+                "Dips": "6 x 3",
+                "Incline Bench Press": "10 x 3",
+                "Pulley Press": "12 x 3"
+            },
+            "Back":{
+                "Pull-Ups": "6 x 3",
+                "Vertical Pull-Downs": "10 x 3",
+                "Horizontal Rows": "12 x 3",
+                "Vertical Barbell Rows": "10 x 3",
+                "Dumbell Rows": "10/arm x 3"
+            },
+            "Legs":{
+                "Barbell Squats": "6~10 x 3",
+                "Deadlifts": "10 x 3",
+                "Leg Extensions": "12 x 3",
+                "Leg Curls": "12 x 3",
+                "Hip Thrusts": "12 x 3",
+                "Calves Raises": "15 x 3"
+            }
+        },
+        "Expert":{
+            "Shoulders":{
+                "Military Press": "10 x 4",
+                "Lateral Raises": "12 x 4",
+                "Horizontal Raises": "12 x 4",
+                "Backward Flies": "12 x 4",
+                "Unilateral Lateral Raises": "10/arm * 4"
+            },
+            "Chest":{
+                "Bench Press": "10 x 4",
+                "Chest Flies": "12 x 4",
+                "Dips": "10 x 4",
+                "Incline Bench Press": "10 x 4",
+                "Pulley Press": "12 x 4"
+            },
+            "Back":{
+                "Pull-Ups": "6~10 x 4",
+                "Vertical Pull-Downs": "10 x 4",
+                "Horizontal Rows": "12 x 4",
+                "Vertical Barbell Rows": "10 x 4",
+                "Dumbell Rows": "10/arm x 4"
+            },
+            "Legs":{
+                "Barbell Squats": "6~10 x 4",
+                "Deadlifts": "10 x 4",
+                "Leg Extensions": "12 x 4",
+                "Leg Curls": "12 x 4",
+                "Hip Thrusts": "12 x 4",
+                "Calves Raises": "15 x 4"
+            }
+        }
+    }
+}
