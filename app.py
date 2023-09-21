@@ -71,7 +71,9 @@ def main():
                         download_button = st.download_button(
                             label="Download Workout Plan",
                             data=open(file_name, 'rb').read(),
-                            key='download_button'
+                            key='download_button',
+                            file_name='Workout Plan',
+                            mime='txt'
                         )
                         os.remove(file_name)
                     except Exception as e:
