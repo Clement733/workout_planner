@@ -47,13 +47,21 @@ def generate_workout_plan(file_name, sex, level, muscle_group):
         writer.writerow([' '])
 
 def main():
+
+    st.camera_input('Imagine if it was that easy :) :) :)')
+
     st.title('WORKOUT PLANNER 💪')
 
     with st.expander('Here if you want a default workout program:'):
         default_radio_days = st.radio('Per week, you want to train:',
                                       ('0 day, just wanted to see the app', '1 day', '2 days', '3 days', '4 days', '5 days', '6 days', '7 days'))
-        if default_radio_days != '0 day, just wanted to see the app':
+        if default_radio_days != '0 day, just wanted to see the app' and default_radio_days != '7 days':
             default_radio_level = st.radio('What level are you:', ('Beginner', 'Advanced', 'Expert'))
+            default_radio_genre = st.radio('What genre are you:', ('F', 'M'))
+        elif default_radio_days == '0 day, just wanted to see the app':
+            st.write('Cool, now go train!')
+        elif default_radio_days == '7 days':
+            st.write('No, you need a rest day!')
 
     with st.expander('Here if you want a custom workout program:'):
         custom_radio_sex = st.radio('What genre are you:', ('Non-Binary', 'F', 'M'))
