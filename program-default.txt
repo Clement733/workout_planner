@@ -1,0 +1,862 @@
+{"1 day":{
+  "M":{
+    "Beginner":{
+      "Only day":{
+        "Knee Push-ups": "8 x 4",
+        "Squats": "10 x 4",
+        "Lateral Raises": "8/arm x 4",
+        "Walking Lunges": "12/leg x 4"
+        }
+    },
+     "Advanced":{
+      "Only day":{
+        "Push-ups": "10 x 4",
+        "Squats": "20 x 4",
+        "Lateral Raises": "12/arm x 4",
+        "Walking Lunges": "16/leg x 4"
+        }
+    },
+     "Expert":{
+      "Only day":{
+        "Push-ups": "Slow on the way down 12 x 4",
+        "Squats": "Slow on the way down 30 x 4",
+        "Lateral Raises": "16/arm x 4",
+        "Walking Lunges": "Pause at the bottom 25/leg x 4"
+        }
+    }},
+  "F":{
+    "Beginner":{
+      "Only day":{
+        "Knee Push-ups": "8 x 4",
+        "Squats": "10 x 4",
+        "Lateral Raises": "8/arm x 4",
+        "Walking Lunges": "12/leg x 4"
+        }
+    },
+     "Advanced":{
+      "Only day":{
+        "Push-ups": "10 x 4",
+        "Squats": "20 x 4",
+        "Lateral Raises": "12/arm x 4",
+        "Walking Lunges": "16/leg x 4"
+        }
+    },
+     "Expert":{
+      "Only day":{
+        "Push-ups": "Slow on the way down 12 x 4",
+        "Squats": "Slow on the way down 30 x 4",
+        "Lateral Raises": "16/arm x 4",
+        "Walking Lunges": "Pause at the bottom 25/leg x 4"
+        }
+    }}},
+  "2 days": {
+    "M": {
+      "Beginner": {
+        "First day": {
+          "Push-ups": "10 x 3",
+          "Bodyweight Squats": "15 x 3",
+          "Plank": "30 seconds x 3",
+          "Jumping Jacks": "20 x 3"
+        },
+        "Second day": {
+          "Dumbbell Bench Press": "8 x 3",
+          "Dumbbell Lunges": "10/leg x 3",
+          "Russian Twists": "15/side x 3",
+          "Jump Rope": "1 minute x 3"
+        }
+      },
+      "Advanced": {
+        "First day": {
+          "Push-ups": "15 x 4",
+          "Bodyweight Squats": "20 x 4",
+          "Plank": "45 seconds x 4",
+          "Jumping Jacks": "30 x 4"
+        },
+        "Second day": {
+          "Bench Press": "10 x 4",
+          "Dumbbell Lunges": "12/leg x 4",
+          "Russian Twists (with weight)": "20/side x 4",
+          "Jump Rope": "2 minutes x 4"
+        }
+      },
+      "Expert": {
+        "First day": {
+          "Push-ups (one-arm push-ups if possible)": "12 x 5",
+          "Pistol Squats": "8/leg x 5",
+          "Plank (with leg lifts)": "1 minute x 5",
+          "Jumping Jacks (burpees)": "40 x 5"
+        },
+        "Second day": {
+          "Bench Press": "12 x 5",
+          "Dumbbell Lunges (with weights)": "15/leg x 5",
+          "Russian Twists (with heavy weight)": "25/side x 5",
+          "Jump Rope (double unders)": "3 minutes x 5"
+        }
+      }
+    },
+    "F": {
+      "Beginner": {
+        "First day": {
+          "Knee Push-ups": "8 x 3",
+          "Bodyweight Squats": "12 x 3",
+          "Plank": "20 seconds x 3",
+          "Jumping Jacks": "15 x 3"
+        },
+        "Second day": {
+          "Dumbbell Bench Press (lighter weights)": "8 x 3",
+          "Dumbbell Lunges": "10/leg x 3",
+          "Russian Twists": "15/side x 3",
+          "Jump Rope (low intensity)": "1 minute x 3"
+        }
+      },
+      "Advanced": {
+        "First day": {
+          "Push-ups": "10 x 4",
+          "Bodyweight Squats": "15 x 4",
+          "Plank": "30 seconds x 4",
+          "Jumping Jacks": "20 x 4"
+        },
+        "Second day": {
+          "Dumbbell Bench Press": "10 x 4",
+          "Dumbbell Lunges": "12/leg x 4",
+          "Russian Twists (with lighter weight)": "20/side x 4",
+          "Jump Rope (moderate intensity)": "2 minutes x 4"
+        }
+      },
+      "Expert": {
+        "First day": {
+          "Push-ups (one-arm push-ups if possible)": "12 x 5",
+          "Pistol Squats": "8/leg x 5",
+          "Plank (with leg lifts)": "45 seconds x 5",
+          "Jumping Jacks (burpees)": "30 x 5"
+        },
+        "Second day": {
+          "Bench Press": "12 x 5",
+          "Dumbbell Lunges (with weights)": "15/leg x 5",
+          "Russian Twists (with moderate weight)": "25/side x 5",
+          "Jump Rope (high intensity)": "3 minutes x 5"
+        }
+      }
+    }
+  },
+ "3 days": {
+    "M": {
+      "Beginner": {
+        "First day": {
+          "Push-ups": "10 x 3",
+          "Bodyweight Squats": "15 x 3",
+          "Plank": "30 seconds x 3",
+          "Jumping Jacks": "20 x 3"
+        },
+        "Second day": {
+          "Dumbbell Bench Press": "8 x 3",
+          "Dumbbell Lunges": "10/leg x 3",
+          "Russian Twists": "15/side x 3",
+          "Jump Rope": "1 minute x 3"
+        },
+        "Third day": {
+          "Pull-ups (assisted if needed)": "8 x 3",
+          "Leg Raises": "12 x 3",
+          "Side Plank (both sides)": "20 seconds/side x 3",
+          "Burpees": "15 x 3"
+        }
+      },
+      "Advanced": {
+        "First day": {
+          "Push-ups": "15 x 4",
+          "Bodyweight Squats": "20 x 4",
+          "Plank": "45 seconds x 4",
+          "Jumping Jacks": "30 x 4"
+        },
+        "Second day": {
+          "Bench Press": "10 x 4",
+          "Dumbbell Lunges": "12/leg x 4",
+          "Russian Twists (with weight)": "20/side x 4",
+          "Jump Rope": "2 minutes x 4"
+        },
+        "Third day": {
+          "Pull-ups": "10 x 4",
+          "Hanging Leg Raises": "15 x 4",
+          "Side Plank (with leg lift)": "30 seconds/side x 4",
+          "Burpees": "20 x 4"
+        }
+      },
+      "Expert": {
+        "First day": {
+          "One-arm Push-ups": "12 x 5",
+          "Pistol Squats": "8/leg x 5",
+          "Plank (with leg lifts)": "1 minute x 5",
+          "Jumping Jacks (burpees)": "40 x 5"
+        },
+        "Second day": {
+          "Bench Press": "12 x 5",
+          "Dumbbell Lunges (with weights)": "15/leg x 5",
+          "Russian Twists (with heavy weight)": "25/side x 5",
+          "Jump Rope (double unders)": "3 minutes x 5"
+        },
+        "Third day": {
+          "Pull-ups (weighted if possible)": "12 x 5",
+          "Dragon Flags": "10 x 5",
+          "Side Plank (with leg lift and twist)": "45 seconds/side x 5",
+          "Burpees (with push-up)": "25 x 5"
+        }
+      }
+    },
+    "F": {
+      "Beginner": {
+        "First day": {
+          "Knee Push-ups": "8 x 3",
+          "Bodyweight Squats": "12 x 3",
+          "Plank": "20 seconds x 3",
+          "Jumping Jacks": "15 x 3"
+        },
+        "Second day": {
+          "Dumbbell Bench Press (lighter weights)": "8 x 3",
+          "Dumbbell Lunges": "10/leg x 3",
+          "Russian Twists": "15/side x 3",
+          "Jump Rope (low intensity)": "1 minute x 3"
+        },
+        "Third day": {
+          "Assisted Pull-ups": "6 x 3",
+          "Leg Raises": "10 x 3",
+          "Side Plank (both sides)": "15 seconds/side x 3",
+          "Burpees (without push-up)": "10 x 3"
+        }
+      },
+      "Advanced": {
+        "First day": {
+          "Push-ups": "10 x 4",
+          "Bodyweight Squats": "15 x 4",
+          "Plank": "30 seconds x 4",
+          "Jumping Jacks": "20 x 4"
+        },
+        "Second day": {
+          "Dumbbell Bench Press": "10 x 4",
+          "Dumbbell Lunges": "12/leg x 4",
+          "Russian Twists (with lighter weight)": "20/side x 4",
+          "Jump Rope (moderate intensity)": "2 minutes x 4"
+        },
+        "Third day": {
+          "Pull-ups": "8 x 4",
+          "Hanging Leg Raises": "12 x 4",
+          "Side Plank (with leg lift)": "20 seconds/side x 4",
+          "Burpees (with push-up)": "15 x 4"
+        }
+      },
+      "Expert": {
+        "First day": {
+          "One-arm Push-ups": "12 x 5",
+          "Pistol Squats": "8/leg x 5",
+          "Plank (with leg lifts)": "45 seconds x 5",
+          "Jumping Jacks (burpees)": "30 x 5"
+        },
+        "Second day": {
+          "Bench Press": "12 x 5",
+          "Dumbbell Lunges (with weights)": "15/leg x 5",
+          "Russian Twists (with moderate weight)": "25/side x 5",
+          "Jump Rope (high intensity)": "3 minutes x 5"
+        },
+        "Third day": {
+          "Pull-ups (weighted)": "10 x 5",
+          "Dragon Flags": "8 x 5",
+          "Side Plank (with leg lift and twist)": "30 seconds/side x 5",
+          "Burpees (with push-up)": "20 x 5"
+        }
+      }
+    }
+  },
+ "4 days": {
+    "M": {
+      "Beginner": {
+        "First day": {
+          "Push-ups": "10 x 3",
+          "Bodyweight Squats": "15 x 3",
+          "Plank": "30 seconds x 3",
+          "Jumping Jacks": "20 x 3"
+        },
+        "Second day": {
+          "Dumbbell Bench Press": "8 x 3",
+          "Dumbbell Lunges": "10/leg x 3",
+          "Russian Twists": "15/side x 3",
+          "Jump Rope": "1 minute x 3"
+        },
+        "Third day": {
+          "Pull-ups (assisted if needed)": "8 x 3",
+          "Leg Raises": "12 x 3",
+          "Side Plank (both sides)": "20 seconds/side x 3",
+          "Burpees": "15 x 3"
+        },
+        "Fourth day": {
+          "Bodyweight Rows": "10 x 3",
+          "Bicycle Crunches": "20/side x 3",
+          "Mountain Climbers": "30 seconds x 3",
+          "Jumping Jacks": "20 x 3"
+        }
+      },
+      "Advanced": {
+        "First day": {
+          "Push-ups": "15 x 4",
+          "Bodyweight Squats": "20 x 4",
+          "Plank": "45 seconds x 4",
+          "Jumping Jacks": "30 x 4"
+        },
+        "Second day": {
+          "Bench Press": "10 x 4",
+          "Dumbbell Lunges": "12/leg x 4",
+          "Russian Twists (with weight)": "20/side x 4",
+          "Jump Rope": "2 minutes x 4"
+        },
+        "Third day": {
+          "Pull-ups": "10 x 4",
+          "Hanging Leg Raises": "15 x 4",
+          "Side Plank (with leg lift)": "30 seconds/side x 4",
+          "Burpees": "20 x 4"
+        },
+        "Fourth day": {
+          "Bodyweight Rows": "12 x 4",
+          "Bicycle Crunches": "25/side x 4",
+          "Mountain Climbers": "45 seconds x 4",
+          "Jumping Jacks": "30 x 4"
+        }
+      },
+      "Expert": {
+        "First day": {
+          "One-arm Push-ups": "12 x 5",
+          "Pistol Squats": "8/leg x 5",
+          "Plank (with leg lifts)": "1 minute x 5",
+          "Jumping Jacks (burpees)": "40 x 5"
+        },
+        "Second day": {
+          "Bench Press": "12 x 5",
+          "Dumbbell Lunges (with weights)": "15/leg x 5",
+          "Russian Twists (with heavy weight)": "25/side x 5",
+          "Jump Rope (double unders)": "3 minutes x 5"
+        },
+        "Third day": {
+          "Pull-ups (weighted if possible)": "12 x 5",
+          "Dragon Flags": "10 x 5",
+          "Side Plank (with leg lift and twist)": "45 seconds/side x 5",
+          "Burpees (with push-up)": "25 x 5"
+        },
+        "Fourth day": {
+          "Bodyweight Rows (wide grip)": "15 x 5",
+          "Bicycle Crunches (weighted)": "30/side x 5",
+          "Mountain Climbers (with push-up)": "1 minute x 5",
+          "Jumping Jacks": "40 x 5"
+        }
+      }
+    },
+    "F": {
+      "Beginner": {
+        "First day": {
+          "Knee Push-ups": "8 x 3",
+          "Bodyweight Squats": "12 x 3",
+          "Plank": "20 seconds x 3",
+          "Jumping Jacks": "15 x 3"
+        },
+        "Second day": {
+          "Dumbbell Bench Press (lighter weights)": "8 x 3",
+          "Dumbbell Lunges": "10/leg x 3",
+          "Russian Twists": "15/side x 3",
+          "Jump Rope (low intensity)": "1 minute x 3"
+        },
+        "Third day": {
+          "Assisted Pull-ups": "6 x 3",
+          "Leg Raises": "10 x 3",
+          "Side Plank (both sides)": "15 seconds/side x 3",
+          "Burpees (without push-up)": "10 x 3"
+        },
+        "Fourth day": {
+          "Bodyweight Rows": "8 x 3",
+          "Bicycle Crunches": "15/side x 3",
+          "Mountain Climbers": "30 seconds x 3",
+          "Jumping Jacks": "15 x 3"
+        }
+      },
+      "Advanced": {
+        "First day": {
+          "Push-ups": "10 x 4",
+          "Bodyweight Squats": "15 x 4",
+          "Plank": "30 seconds x 4",
+          "Jumping Jacks": "20 x 4"
+        },
+        "Second day": {
+          "Dumbbell Bench Press": "10 x 4",
+          "Dumbbell Lunges": "12/leg x 4",
+          "Russian Twists (with lighter weight)": "20/side x 4",
+          "Jump Rope (moderate intensity)": "2 minutes x 4"
+        },
+        "Third day": {
+          "Pull-ups": "8 x 4",
+          "Hanging Leg Raises": "12 x 4",
+          "Side Plank (with leg lift)": "20 seconds/side x 4",
+          "Burpees (with push-up)": "15 x 4"
+        },
+        "Fourth day": {
+          "Bodyweight Rows": "10 x 4",
+          "Bicycle Crunches": "20/side x 4",
+          "Mountain Climbers": "45 seconds x 4",
+          "Jumping Jacks": "20 x 4"
+        }
+      },
+      "Expert": {
+        "First day": {
+          "One-arm Push-ups": "12 x 5",
+          "Pistol Squats": "8/leg x 5",
+          "Plank (with leg lifts)": "45 seconds x 5",
+          "Jumping Jacks (burpees)": "30 x 5"
+        },
+        "Second day": {
+          "Bench Press": "12 x 5",
+          "Dumbbell Lunges (with weights)": "15/leg x 5",
+          "Russian Twists (with moderate weight)": "25/side x 5",
+          "Jump Rope (high intensity)": "3 minutes x 5"
+        },
+        "Third day": {
+          "Pull-ups (weighted)": "10 x 5",
+          "Dragon Flags": "8 x 5",
+          "Side Plank (with leg lift and twist)": "30 seconds/side x 5",
+          "Burpees (with push-up)": "20 x 5"
+        },
+        "Fourth day": {
+          "Bodyweight Rows (wide grip)": "12 x 5",
+          "Bicycle Crunches (weighted)": "25/side x 5",
+          "Mountain Climbers (with push-up)": "1 minute x 5",
+          "Jumping Jacks": "30 x 5"
+        }
+      }
+    }
+  },
+ "5 days": {
+    "M": {
+      "Beginner": {
+        "First day": {
+          "Push-ups": "10 x 3",
+          "Bodyweight Squats": "15 x 3",
+          "Plank": "30 seconds x 3",
+          "Jumping Jacks": "20 x 3"
+        },
+        "Second day": {
+          "Dumbbell Bench Press": "8 x 3",
+          "Dumbbell Lunges": "10/leg x 3",
+          "Russian Twists": "15/side x 3",
+          "Jump Rope": "1 minute x 3"
+        },
+        "Third day": {
+          "Pull-ups (assisted if needed)": "8 x 3",
+          "Leg Raises": "12 x 3",
+          "Side Plank (both sides)": "20 seconds/side x 3",
+          "Burpees": "15 x 3"
+        },
+        "Fourth day": {
+          "Bodyweight Rows": "10 x 3",
+          "Bicycle Crunches": "20/side x 3",
+          "Mountain Climbers": "30 seconds x 3",
+          "Jumping Jacks": "20 x 3"
+        },
+        "Fifth day": {
+          "Dumbbell Curls": "10 x 3",
+          "Tricep Dips": "10 x 3",
+          "Lateral Raises": "12/arm x 3",
+          "Plank (with leg lifts)": "45 seconds x 3"
+        }
+      },
+      "Advanced": {
+        "First day": {
+          "Push-ups": "15 x 4",
+          "Bodyweight Squats": "20 x 4",
+          "Plank": "45 seconds x 4",
+          "Jumping Jacks": "30 x 4"
+        },
+        "Second day": {
+          "Bench Press": "10 x 4",
+          "Dumbbell Lunges": "12/leg x 4",
+          "Russian Twists (with weight)": "20/side x 4",
+          "Jump Rope": "2 minutes x 4"
+        },
+        "Third day": {
+          "Pull-ups": "10 x 4",
+          "Hanging Leg Raises": "15 x 4",
+          "Side Plank (with leg lift)": "30 seconds/side x 4",
+          "Burpees": "20 x 4"
+        },
+        "Fourth day": {
+          "Bodyweight Rows": "12 x 4",
+          "Bicycle Crunches": "25/side x 4",
+          "Mountain Climbers": "45 seconds x 4",
+          "Jumping Jacks": "30 x 4"
+        },
+        "Fifth day": {
+          "Dumbbell Curls": "12 x 4",
+          "Tricep Dips": "12 x 4",
+          "Lateral Raises": "15/arm x 4",
+          "Plank (with leg lifts)": "1 minute x 4"
+        }
+      },
+      "Expert": {
+        "First day": {
+          "One-arm Push-ups": "12 x 5",
+          "Pistol Squats": "8/leg x 5",
+          "Plank (with leg lifts)": "1 minute x 5",
+          "Jumping Jacks (burpees)": "40 x 5"
+        },
+        "Second day": {
+          "Bench Press": "12 x 5",
+          "Dumbbell Lunges (with weights)": "15/leg x 5",
+          "Russian Twists (with heavy weight)": "25/side x 5",
+          "Jump Rope (double unders)": "3 minutes x 5"
+        },
+        "Third day": {
+          "Pull-ups (weighted if possible)": "12 x 5",
+          "Dragon Flags": "10 x 5",
+          "Side Plank (with leg lift and twist)": "45 seconds/side x 5",
+          "Burpees (with push-up)": "25 x 5"
+        },
+        "Fourth day": {
+          "Bodyweight Rows (wide grip)": "15 x 5",
+          "Bicycle Crunches (weighted)": "30/side x 5",
+          "Mountain Climbers (with push-up)": "1 minute x 5",
+          "Jumping Jacks": "40 x 5"
+        },
+        "Fifth day": {
+          "Dumbbell Curls": "15 x 5",
+          "Tricep Dips (weighted)": "15 x 5",
+          "Lateral Raises": "18/arm x 5",
+          "Plank (with leg lifts)": "1 minute 30 seconds x 5"
+        }
+      }
+    },
+    "F": {
+      "Beginner": {
+        "First day": {
+          "Knee Push-ups": "8 x 3",
+          "Bodyweight Squats": "12 x 3",
+          "Plank": "20 seconds x 3",
+          "Jumping Jacks": "15 x 3"
+        },
+        "Second day": {
+          "Dumbbell Bench Press (lighter weights)": "8 x 3",
+          "Dumbbell Lunges": "10/leg x 3",
+          "Russian Twists": "15/side x 3",
+          "Jump Rope (low intensity)": "1 minute x 3"
+        },
+        "Third day": {
+          "Assisted Pull-ups": "6 x 3",
+          "Leg Raises": "10 x 3",
+          "Side Plank (both sides)": "15 seconds/side x 3",
+          "Burpees (without push-up)": "10 x 3"
+        },
+        "Fourth day": {
+          "Bodyweight Rows": "8 x 3",
+          "Bicycle Crunches": "15/side x 3",
+          "Mountain Climbers": "30 seconds x 3",
+          "Jumping Jacks": "15 x 3"
+        },
+        "Fifth day": {
+          "Dumbbell Curls": "10 x 3",
+          "Tricep Dips": "10 x 3",
+          "Lateral Raises": "12/arm x 3",
+          "Plank (with leg lifts)": "30 seconds x 3"
+        }
+      },
+      "Advanced": {
+        "First day": {
+          "Push-ups": "10 x 4",
+          "Bodyweight Squats": "15 x 4",
+          "Plank": "30 seconds x 4",
+          "Jumping Jacks": "20 x 4"
+        },
+        "Second day": {
+          "Dumbbell Bench Press": "10 x 4",
+          "Dumbbell Lunges": "12/leg x 4",
+          "Russian Twists (with lighter weight)": "20/side x 4",
+          "Jump Rope (moderate intensity)": "2 minutes x 4"
+        },
+        "Third day": {
+          "Pull-ups": "8 x 4",
+          "Hanging Leg Raises": "12 x 4",
+          "Side Plank (with leg lift)": "20 seconds/side x 4",
+          "Burpees (with push-up)": "15 x 4"
+        },
+        "Fourth day": {
+          "Bodyweight Rows": "10 x 4",
+          "Bicycle Crunches": "20/side x 4",
+          "Mountain Climbers": "45 seconds x 4",
+          "Jumping Jacks": "20 x 4"
+        },
+        "Fifth day": {
+          "Dumbbell Curls": "12 x 4",
+          "Tricep Dips": "12 x 4",
+          "Lateral Raises": "15/arm x 4",
+          "Plank (with leg lifts)": "45 seconds x 4"
+        }
+      },
+      "Expert": {
+        "First day": {
+          "One-arm Push-ups": "12 x 5",
+          "Pistol Squats": "8/leg x 5",
+          "Plank (with leg lifts)": "45 seconds x 5",
+          "Jumping Jacks (burpees)": "30 x 5"
+        },
+        "Second day": {
+          "Bench Press": "12 x 5",
+          "Dumbbell Lunges (with weights)": "15/leg x 5",
+          "Russian Twists (with moderate weight)": "25/side x 5",
+          "Jump Rope (high intensity)": "3 minutes x 5"
+        },
+        "Third day": {
+          "Pull-ups (weighted)": "10 x 5",
+          "Dragon Flags": "8 x 5",
+          "Side Plank (with leg lift and twist)": "30 seconds/side x 5",
+          "Burpees (with push-up)": "20 x 5"
+        },
+        "Fourth day": {
+          "Bodyweight Rows (wide grip)": "12 x 5",
+          "Bicycle Crunches (weighted)": "25/side x 5",
+          "Mountain Climbers (with push-up)": "1 minute x 5",
+          "Jumping Jacks": "30 x 5"
+        },
+        "Fifth day": {
+          "Dumbbell Curls": "15 x 5",
+          "Tricep Dips (weighted)": "15 x 5",
+          "Lateral Raises": "18/arm x 5",
+          "Plank (with leg lifts)": "1 minute x 5"
+        }
+      }
+    }
+  },
+ "6 days": {
+    "M": {
+      "Beginner": {
+        "First day": {
+          "Push-ups": "10 x 3",
+          "Bodyweight Squats": "15 x 3",
+          "Plank": "30 seconds x 3",
+          "Jumping Jacks": "20 x 3"
+        },
+        "Second day": {
+          "Dumbbell Bench Press": "8 x 3",
+          "Dumbbell Lunges": "10/leg x 3",
+          "Russian Twists": "15/side x 3",
+          "Jump Rope": "1 minute x 3"
+        },
+        "Third day": {
+          "Pull-ups (assisted if needed)": "8 x 3",
+          "Leg Raises": "12 x 3",
+          "Side Plank (both sides)": "20 seconds/side x 3",
+          "Burpees": "15 x 3"
+        },
+        "Fourth day": {
+          "Bodyweight Rows": "10 x 3",
+          "Bicycle Crunches": "20/side x 3",
+          "Mountain Climbers": "30 seconds x 3",
+          "Jumping Jacks": "20 x 3"
+        },
+        "Fifth day": {
+          "Dumbbell Curls": "10 x 3",
+          "Tricep Dips": "10 x 3",
+          "Lateral Raises": "12/arm x 3",
+          "Plank (with leg lifts)": "45 seconds x 3"
+        },
+        "Sixth day": {
+          "Push-ups": "12 x 3",
+          "Bodyweight Squats": "20 x 3",
+          "Plank": "40 seconds x 3",
+          "Jumping Jacks": "25 x 3"
+        }
+      },
+      "Advanced": {
+        "First day": {
+          "Push-ups": "15 x 4",
+          "Bodyweight Squats": "20 x 4",
+          "Plank": "45 seconds x 4",
+          "Jumping Jacks": "30 x 4"
+        },
+        "Second day": {
+          "Bench Press": "10 x 4",
+          "Dumbbell Lunges": "12/leg x 4",
+          "Russian Twists (with weight)": "20/side x 4",
+          "Jump Rope": "2 minutes x 4"
+        },
+        "Third day": {
+          "Pull-ups": "10 x 4",
+          "Hanging Leg Raises": "15 x 4",
+          "Side Plank (with leg lift)": "30 seconds/side x 4",
+          "Burpees": "20 x 4"
+        },
+        "Fourth day": {
+          "Bodyweight Rows": "12 x 4",
+          "Bicycle Crunches": "25/side x 4",
+          "Mountain Climbers": "45 seconds x 4",
+          "Jumping Jacks": "30 x 4"
+        },
+        "Fifth day": {
+          "Dumbbell Curls": "12 x 4",
+          "Tricep Dips": "12 x 4",
+          "Lateral Raises": "15/arm x 4",
+          "Plank (with leg lifts)": "1 minute x 4"
+        },
+        "Sixth day": {
+          "Push-ups": "15 x 4",
+          "Bodyweight Squats": "25 x 4",
+          "Plank": "45 seconds x 4",
+          "Jumping Jacks": "35 x 4"
+        }
+      },
+      "Expert": {
+        "First day": {
+          "One-arm Push-ups": "12 x 5",
+          "Pistol Squats": "8/leg x 5",
+          "Plank (with leg lifts)": "1 minute x 5",
+          "Jumping Jacks (burpees)": "40 x 5"
+        },
+        "Second day": {
+          "Bench Press": "12 x 5",
+          "Dumbbell Lunges (with weights)": "15/leg x 5",
+          "Russian Twists (with heavy weight)": "25/side x 5",
+          "Jump Rope (double unders)": "3 minutes x 5"
+        },
+        "Third day": {
+          "Pull-ups (weighted if possible)": "12 x 5",
+          "Dragon Flags": "10 x 5",
+          "Side Plank (with leg lift and twist)": "45 seconds/side x 5",
+          "Burpees (with push-up)": "25 x 5"
+        },
+        "Fourth day": {
+          "Bodyweight Rows (wide grip)": "15 x 5",
+          "Bicycle Crunches (weighted)": "30/side x 5",
+          "Mountain Climbers (with push-up)": "1 minute x 5",
+          "Jumping Jacks": "40 x 5"
+        },
+        "Fifth day": {
+          "Dumbbell Curls": "15 x 5",
+          "Tricep Dips (weighted)": "15 x 5",
+          "Lateral Raises": "18/arm x 5",
+          "Plank (with leg lifts)": "1 minute 30 seconds x 5"
+        },
+        "Sixth day": {
+          "One-arm Push-ups": "15 x 5",
+          "Pistol Squats": "10/leg x 5",
+          "Plank (with leg lifts)": "1 minute 15 seconds x 5",
+          "Jumping Jacks (burpees)": "45 x 5"
+        }
+      }
+    },
+    "F": {
+      "Beginner": {
+        "First day": {
+          "Knee Push-ups": "8 x 3",
+          "Bodyweight Squats": "12 x 3",
+          "Plank": "20 seconds x 3",
+          "Jumping Jacks": "15 x 3"
+        },
+        "Second day": {
+          "Dumbbell Bench Press (lighter weights)": "8 x 3",
+          "Dumbbell Lunges": "10/leg x 3",
+          "Russian Twists": "15/side x 3",
+          "Jump Rope (low intensity)": "1 minute x 3"
+        },
+        "Third day": {
+          "Assisted Pull-ups": "6 x 3",
+          "Leg Raises": "10 x 3",
+          "Side Plank (both sides)": "15 seconds/side x 3",
+          "Burpees (without push-up)": "10 x 3"
+        },
+        "Fourth day": {
+          "Bodyweight Rows": "8 x 3",
+          "Bicycle Crunches": "15/side x 3",
+          "Mountain Climbers": "30 seconds x 3",
+          "Jumping Jacks": "15 x 3"
+        },
+        "Fifth day": {
+          "Dumbbell Curls": "10 x 3",
+          "Tricep Dips": "10 x 3",
+          "Lateral Raises": "12/arm x 3",
+          "Plank (with leg lifts)": "30 seconds x 3"
+        },
+        "Sixth day": {
+          "Knee Push-ups": "10 x 3",
+          "Bodyweight Squats": "15 x 3",
+          "Plank": "30 seconds x 3",
+          "Jumping Jacks": "20 x 3"
+        }
+      },
+      "Advanced": {
+        "First day": {
+          "Push-ups": "10 x 4",
+          "Bodyweight Squats": "15 x 4",
+          "Plank": "30 seconds x 4",
+          "Jumping Jacks": "20 x 4"
+        },
+        "Second day": {
+          "Dumbbell Bench Press": "10 x 4",
+          "Dumbbell Lunges": "12/leg x 4",
+          "Russian Twists (with lighter weight)": "20/side x 4",
+          "Jump Rope (moderate intensity)": "2 minutes x 4"
+        },
+        "Third day": {
+          "Pull-ups": "8 x 4",
+          "Hanging Leg Raises": "12 x 4",
+          "Side Plank (with leg lift)": "20 seconds/side x 4",
+          "Burpees (with push-up)": "15 x 4"
+        },
+        "Fourth day": {
+          "Bodyweight Rows": "10 x 4",
+          "Bicycle Crunches": "20/side x 4",
+          "Mountain Climbers": "45 seconds x 4",
+          "Jumping Jacks": "20 x 4"
+        },
+        "Fifth day": {
+          "Dumbbell Curls": "12 x 4",
+          "Tricep Dips": "12 x 4",
+          "Lateral Raises": "15/arm x 4",
+          "Plank (with leg lifts)": "45 seconds x 4"
+        },
+        "Sixth day": {
+          "Push-ups": "12 x 4",
+          "Bodyweight Squats": "20 x 4",
+          "Plank": "40 seconds x 4",
+          "Jumping Jacks": "25 x 4"
+        }
+      },
+      "Expert": {
+        "First day": {
+          "One-arm Push-ups": "12 x 5",
+          "Pistol Squats": "8/leg x 5",
+          "Plank (with leg lifts)": "45 seconds x 5",
+          "Jumping Jacks (burpees)": "30 x 5"
+        },
+        "Second day": {
+          "Bench Press": "12 x 5",
+          "Dumbbell Lunges (with weights)": "15/leg x 5",
+          "Russian Twists (with moderate weight)": "25/side x 5",
+          "Jump Rope (high intensity)": "3 minutes x 5"
+        },
+        "Third day": {
+          "Pull-ups (weighted)": "10 x 5",
+          "Dragon Flags": "8 x 5",
+          "Side Plank (with leg lift and twist)": "30 seconds/side x 5",
+          "Burpees (with push-up)": "20 x 5"
+        },
+        "Fourth day": {
+          "Bodyweight Rows (wide grip)": "12 x 5",
+          "Bicycle Crunches (weighted)": "25/side x 5",
+          "Mountain Climbers (with push-up)": "1 minute x 5",
+          "Jumping Jacks": "30 x 5"
+        },
+        "Fifth day": {
+          "Dumbbell Curls": "15 x 5",
+          "Tricep Dips (weighted)": "15 x 5",
+          "Lateral Raises": "18/arm x 5",
+          "Plank (with leg lifts)": "1 minute 30 seconds x 5"
+        },
+        "Sixth day": {
+          "One-arm Push-ups": "15 x 5",
+          "Pistol Squats": "10/leg x 5",
+          "Plank (with leg lifts)": "1 minute 15 seconds x 5",
+          "Jumping Jacks (burpees)": "35 x 5"
+        }
+      }
+    }
+  }
+}
