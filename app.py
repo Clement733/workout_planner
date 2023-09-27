@@ -3,6 +3,7 @@ import csv
 import sys
 import os
 import json
+import cv2 as cv
 
 def get_sex(s):
     s = s.strip().lower()
@@ -47,8 +48,6 @@ def generate_workout_plan(file_name, sex, level, muscle_group):
         writer.writerow([' '])
 
 def main():
-
-    st.camera_input('Imagine if it was that easy :) :) :)')
 
     st.title('WORKOUT PLANNER 💪')
 
