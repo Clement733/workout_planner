@@ -103,9 +103,9 @@ def main():
         default_radio_days = st.radio('Per week, you want to train:',
                                       ('0 day, just wanted to see the app', '1 day', '2 days', '3 days', '4 days', '5 days', '6 days', '7 days'))
         if default_radio_days not in ['0 day, just wanted to see the app', '7 days']:
-            default_radio_level = st.radio('What level are you:', ('Beginner', 'Advanced', 'Expert'), key="default")
+            default_radio_level = st.radio('What level are you:', ('Beginner', 'Advanced', 'Expert'), key="radio_default")
             default_radio_genre = st.radio('What genre are you:', ('F', 'M'))
-            if st.button('Generate Workout Plan', key="default"):
+            if st.button('Generate Workout Plan', key="button_default"):
                 file_name = 'workout_plan.csv'
                 try:
                     generate_workout_plan_default(file_name, default_radio_days, default_radio_genre, default_radio_level)
@@ -128,11 +128,11 @@ def main():
     with st.expander('Here if you want a custom workout program:'):
         custom_radio_sex = st.radio('What genre are you:', ('Non-Binary', 'F', 'M'))
         if custom_radio_sex != 'Non-Binary':
-            custom_radio_level = st.radio('What level are you:', ('Beginner', 'Advanced', 'Expert'), key="custom")
+            custom_radio_level = st.radio('What level are you:', ('Beginner', 'Advanced', 'Expert'), key="radio_custom")
             if custom_radio_level is not None:
                 custom_radio_muscle = st.multiselect('What muscle groups do you want to train:',
                                                      ('Chest', 'Back', 'Shoulders', 'Legs'))
-                if st.button('Generate Workout Plan', key='custom'):
+                if st.button('Generate Workout Plan', key='button_custom'):
                     file_name = 'workout_plan.csv'
                     try:
                         for muscle_group in custom_radio_muscle:
