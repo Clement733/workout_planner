@@ -3,7 +3,6 @@ import csv
 import sys
 import os
 import json
-import cv2 as cv
 
 def get_sex(s):
     s = s.strip().lower()
