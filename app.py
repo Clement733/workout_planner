@@ -66,7 +66,6 @@ def generate_workout_plan_default(file_name, number_of_days, sex, level):
         reach = data[number_of_days.capitalize()][sex.capitalize()][level.capitalize()]
         day_data = data.get(number_of_days.capitalize(), {}).get(sex.capitalize(), {}).get(level.capitalize(), {})
 
-        # Loop through the exercises for the specified day
         for day, reach in day_data.items():
             writer.writerow([f'{day}'])
             for ele, value in reach.items():
