@@ -149,7 +149,7 @@ def main():
                     except Exception as e:
                         st.error(f'An error occurred: {e}')
         else:
-            st.write("You're sick, get out of my app")
+            st.write("Sorry, it was only to have a default parameter")
 
 if __name__ == "__main__":
     main()
